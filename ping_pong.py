@@ -2,7 +2,7 @@ import turtle
 
 # Create screen
 sc = turtle.Screen()
-sc.title("Aravinds and Mukeshs ip project")
+sc.title("PONG")
 sc.bgcolor("black")
 sc.setup(width=1000, height=600)
 
